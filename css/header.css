@@ -9,7 +9,8 @@
 header .dropdown-content{
     position: absolute;
     display: none;
-    background-color: rgb(216,233,227);
+    /* background-color: rgb(216,233,227); */
+    background-color: #60224e;
     box-shadow: 0px 8px 16px 0px #60224e;
 }
 
